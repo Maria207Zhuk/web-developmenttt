@@ -1,13 +1,15 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #c0e9ff;
+  background-color: rgb(233, 247, 236);
+  /* background-color: #c0e9ff; */
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #a3c7f8;
+  background-color: rgb(236, 244, 248);
+  /* background-color: #a3c7f8; */
   border-radius: 0;
   border: 0;
   
@@ -29,7 +31,8 @@ body {
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #3a12b5;
+  color: rgb(26, 63, 22);
+  /* color: #3a12b5; */
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
@@ -42,7 +45,8 @@ body {
   text-decoration: none;
 }
 .navbar-brand p { /* Number one choice */
-  color: #8577ef;
+  color: green;
+  /* color: #8577ef; */
   text-transform: uppercase;
   font-size: .7em;
   margin-top: 15px;
@@ -55,9 +59,11 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: rgb(107, 133, 107);
+  /* color: #951C49; */
   text-align: center;
 }
+
 #nav-list a:hover {
   background: #E7E7E7;
 }
@@ -92,7 +98,8 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: rgb(55, 73, 55);
+  /* background-color: #222; */
   border-top: 0;
 }
 .panel-footer div.row {
